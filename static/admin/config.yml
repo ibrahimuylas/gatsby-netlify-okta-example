@@ -1,5 +1,6 @@
 backend:
-  name: github
+  name: git-gateway
+  branch: main
   repo: ibrahimuylas/gatsby-netlify-okta-example
   
 media_folder: static/assets
